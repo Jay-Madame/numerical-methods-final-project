@@ -1,0 +1,195 @@
+================================================================================
+  GAUSSIAN ELIMINATION — STATISTICAL ANALYSIS REPORT
+================================================================================
+  Significance level: α = 0.05
+  Test: One-way ANOVA + Tukey HSD post-hoc
+
+================================================================================
+  DESCRIPTIVE STATISTICS  (times in ms)
+================================================================================
+
+  Matrix size: 2×2
+  Algorithm                           n       Mean        Std     Median        Min        Max
+  ------------------------------------------------------------------------------
+  Carson  (LU Decomp)                30     0.2255     0.9589     0.0456     0.0423     5.3023
+  Damian  (RREF)                     30     0.0058     0.0031     0.0050     0.0048     0.0215
+  Jewell  (Hash + Pivot)             30     0.0158     0.0176     0.0119     0.0114     0.1084
+  Tyler   (Graph-based)              30     0.0560     0.0659     0.0423     0.0409     0.4040
+
+  Matrix size: 4×4
+  Algorithm                           n       Mean        Std     Median        Min        Max
+  ------------------------------------------------------------------------------
+  Carson  (LU Decomp)                30     0.0460     0.0073     0.0438     0.0428     0.0820
+  Damian  (RREF)                     30     0.0158     0.0015     0.0154     0.0151     0.0233
+  Jewell  (Hash + Pivot)             30     0.0390     0.0060     0.0376     0.0372     0.0703
+  Tyler   (Graph-based)              30     0.2308     0.0058     0.2300     0.2255     0.2555
+
+  Matrix size: 8×8
+  Algorithm                           n       Mean        Std     Median        Min        Max
+  ------------------------------------------------------------------------------
+  Carson  (LU Decomp)                30     0.0479     0.0066     0.0461     0.0453     0.0810
+  Damian  (RREF)                     30     0.0753     0.0027     0.0742     0.0734     0.0853
+  Jewell  (Hash + Pivot)             30     0.1125     0.0077     0.1104     0.1094     0.1516
+  Tyler   (Graph-based)              30     1.6020     0.0279     1.5942     1.5748     1.7039
+
+  Matrix size: 16×16
+  Algorithm                           n       Mean        Std     Median        Min        Max
+  ------------------------------------------------------------------------------
+  Carson  (LU Decomp)                30     0.0540     0.0087     0.0517     0.0511     0.0987
+  Damian  (RREF)                     30     0.4569     0.0075     0.4540     0.4478     0.4800
+  Jewell  (Hash + Pivot)             30     0.3530     0.0223     0.3456     0.3432     0.4548
+  Tyler   (Graph-based)              30    12.0865     0.4251    12.0099    11.9139    14.3204
+
+  Matrix size: 32×32
+  Algorithm                           n       Mean        Std     Median        Min        Max
+  ------------------------------------------------------------------------------
+  Carson  (LU Decomp)                30     0.0749     0.0168     0.0699     0.0682     0.1582
+  Damian  (RREF)                     30     3.1861     0.0242     3.1818     3.1549     3.2503
+  Jewell  (Hash + Pivot)             30     1.2293     0.0844     1.2098     1.1959     1.6712
+  Tyler   (Graph-based)              30   232.1332   334.0685    95.3837    93.4750  1744.8205
+
+  Matrix size: 64×64
+  Algorithm                           n       Mean        Std     Median        Min        Max
+  ------------------------------------------------------------------------------
+  Carson  (LU Decomp)                30     0.5158     1.3379     0.1950     0.1622     7.1815
+  Damian  (RREF)                     30    67.3530   115.1442    38.4235    28.0532   659.5882
+  Jewell  (Hash + Pivot)             30     9.9070     5.2294     7.9196     5.8390    26.0620
+  Tyler   (Graph-based)              30  1472.5159  1391.1397   888.4893   758.4062  7547.5864
+
+  Matrix size: 128×128
+  Algorithm                           n       Mean        Std     Median        Min        Max
+  ------------------------------------------------------------------------------
+  Carson  (LU Decomp)                30     0.6892     2.3825     0.2518     0.2488    13.3034
+  Damian  (RREF)                     30   192.5985     1.6857   191.9309   190.5683   197.5696
+  Jewell  (Hash + Pivot)             30    25.6677     4.5497    24.7670    24.6430    49.7362
+  Tyler   (Graph-based)              30  6316.1943   217.8055  6245.8529  6138.3548  7159.5708
+
+  Matrix size: 256×256
+  Algorithm                           n       Mean        Std     Median        Min        Max
+  ------------------------------------------------------------------------------
+  Carson  (LU Decomp)                30     0.9072     0.1031     0.8814     0.8671     1.4440
+  Damian  (RREF)                     30  1545.1155     4.3374  1544.3064  1536.9217  1557.4009
+  Jewell  (Hash + Pivot)             30   212.1133    58.7064   198.5883   197.0010   516.8159
+  Tyler   (Graph-based)              30 53512.3694  4692.8931 51989.3475 50726.5212 74632.7659
+
+  Matrix size: 512×512
+  Algorithm                           n       Mean        Std     Median        Min        Max
+  ------------------------------------------------------------------------------
+  Carson  (LU Decomp)                30     5.6690     4.9272     4.7418     4.5353    31.7414
+  Damian  (RREF)                     30 13717.7219   624.3133 13419.1311 13303.9643 15705.0577
+  Jewell  (Hash + Pivot)             30  2214.5996   845.2595  2033.4491  2012.2560  6664.8777
+
+================================================================================
+  ONE-WAY ANOVA RESULTS
+================================================================================
+
+  H₀: All algorithms have equal mean runtime for a given matrix size.
+  H₁: At least one algorithm differs significantly.
+
+    Size     F-statistic       p-value    Significant?  Conclusion
+  --------------------------------------------------------------------------
+       2          1.3548      0.260185              NO  Fail to reject H₀
+       4       9549.9043      0.000000           YES ✓  Reject H₀
+       8      78431.1185      0.000000           YES ✓  Reject H₀
+      16      23046.6481      0.000000           YES ✓  Reject H₀
+      32         14.3008      0.000000           YES ✓  Reject H₀
+      64         32.2718      0.000000           YES ✓  Reject H₀
+     128      24652.1837      0.000000           YES ✓  Reject H₀
+     256       3817.7264      0.000000           YES ✓  Reject H₀
+     512       4417.7513      0.000000           YES ✓  Reject H₀
+
+================================================================================
+  TUKEY HSD POST-HOC TEST  (pairwise comparisons)
+================================================================================
+
+  Only shown for matrix sizes where ANOVA was significant (p < 0.05).
+
+  Matrix size: 4×4
+  Group A                          Group B                             p-value    Significant?
+  ------------------------------------------------------------------------------------------
+  Carson  (LU Decomp)              Damian  (RREF)                     0.000000           YES ✓
+  Carson  (LU Decomp)              Jewell  (Hash + Pivot)             0.000019           YES ✓
+  Carson  (LU Decomp)              Tyler   (Graph-based)              0.000000           YES ✓
+  Damian  (RREF)                   Jewell  (Hash + Pivot)             0.000000           YES ✓
+  Damian  (RREF)                   Tyler   (Graph-based)              0.000000           YES ✓
+  Jewell  (Hash + Pivot)           Tyler   (Graph-based)              0.000000           YES ✓
+
+  Matrix size: 8×8
+  Group A                          Group B                             p-value    Significant?
+  ------------------------------------------------------------------------------------------
+  Carson  (LU Decomp)              Damian  (RREF)                     0.000000           YES ✓
+  Carson  (LU Decomp)              Jewell  (Hash + Pivot)             0.000000           YES ✓
+  Carson  (LU Decomp)              Tyler   (Graph-based)              0.000000           YES ✓
+  Damian  (RREF)                   Jewell  (Hash + Pivot)             0.000000           YES ✓
+  Damian  (RREF)                   Tyler   (Graph-based)              0.000000           YES ✓
+  Jewell  (Hash + Pivot)           Tyler   (Graph-based)              0.000000           YES ✓
+
+  Matrix size: 16×16
+  Group A                          Group B                             p-value    Significant?
+  ------------------------------------------------------------------------------------------
+  Carson  (LU Decomp)              Damian  (RREF)                     0.000000           YES ✓
+  Carson  (LU Decomp)              Jewell  (Hash + Pivot)             0.000002           YES ✓
+  Carson  (LU Decomp)              Tyler   (Graph-based)              0.000000           YES ✓
+  Damian  (RREF)                   Jewell  (Hash + Pivot)             0.237522              NO
+  Damian  (RREF)                   Tyler   (Graph-based)              0.000000           YES ✓
+  Jewell  (Hash + Pivot)           Tyler   (Graph-based)              0.000000           YES ✓
+
+  Matrix size: 32×32
+  Group A                          Group B                             p-value    Significant?
+  ------------------------------------------------------------------------------------------
+  Carson  (LU Decomp)              Damian  (RREF)                     0.999865              NO
+  Carson  (LU Decomp)              Jewell  (Hash + Pivot)             0.999993              NO
+  Carson  (LU Decomp)              Tyler   (Graph-based)              0.000002           YES ✓
+  Damian  (RREF)                   Jewell  (Hash + Pivot)             0.999966              NO
+  Damian  (RREF)                   Tyler   (Graph-based)              0.000003           YES ✓
+  Jewell  (Hash + Pivot)           Tyler   (Graph-based)              0.000003           YES ✓
+
+  Matrix size: 64×64
+  Group A                          Group B                             p-value    Significant?
+  ------------------------------------------------------------------------------------------
+  Carson  (LU Decomp)              Damian  (RREF)                     0.982503              NO
+  Carson  (LU Decomp)              Jewell  (Hash + Pivot)             0.999949              NO
+  Carson  (LU Decomp)              Tyler   (Graph-based)              0.000000           YES ✓
+  Damian  (RREF)                   Jewell  (Hash + Pivot)             0.988737              NO
+  Damian  (RREF)                   Tyler   (Graph-based)              0.000000           YES ✓
+  Jewell  (Hash + Pivot)           Tyler   (Graph-based)              0.000000           YES ✓
+
+  Matrix size: 128×128
+  Group A                          Group B                             p-value    Significant?
+  ------------------------------------------------------------------------------------------
+  Carson  (LU Decomp)              Damian  (RREF)                     0.000000           YES ✓
+  Carson  (LU Decomp)              Jewell  (Hash + Pivot)             0.811064              NO
+  Carson  (LU Decomp)              Tyler   (Graph-based)              0.000000           YES ✓
+  Damian  (RREF)                   Jewell  (Hash + Pivot)             0.000000           YES ✓
+  Damian  (RREF)                   Tyler   (Graph-based)              0.000000           YES ✓
+  Jewell  (Hash + Pivot)           Tyler   (Graph-based)              0.000000           YES ✓
+
+  Matrix size: 256×256
+  Group A                          Group B                             p-value    Significant?
+  ------------------------------------------------------------------------------------------
+  Carson  (LU Decomp)              Damian  (RREF)                     0.057833              NO
+  Carson  (LU Decomp)              Jewell  (Hash + Pivot)             0.985384              NO
+  Carson  (LU Decomp)              Tyler   (Graph-based)              0.000000           YES ✓
+  Damian  (RREF)                   Jewell  (Hash + Pivot)             0.129306              NO
+  Damian  (RREF)                   Tyler   (Graph-based)              0.000000           YES ✓
+  Jewell  (Hash + Pivot)           Tyler   (Graph-based)              0.000000           YES ✓
+
+  Matrix size: 512×512
+  Group A                          Group B                             p-value    Significant?
+  ------------------------------------------------------------------------------------------
+  Carson  (LU Decomp)              Damian  (RREF)                     0.000000           YES ✓
+  Carson  (LU Decomp)              Jewell  (Hash + Pivot)             0.000000           YES ✓
+  Damian  (RREF)                   Jewell  (Hash + Pivot)             0.000000           YES ✓
+
+================================================================================
+  OVERALL CONCLUSION
+================================================================================
+
+  Statistically significant differences in runtime were found at
+  matrix sizes: [np.int64(4), np.int64(8), np.int64(16), np.int64(32), np.int64(64), np.int64(128), np.int64(256), np.int64(512)]
+
+  This means the choice of algorithm has a measurable impact on
+  performance at these sizes. Refer to Tukey HSD above for which
+  specific pairs differ.
+
+================================================================================

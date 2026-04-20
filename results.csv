@@ -1,0 +1,1051 @@
+algorithm,matrix_size,run,time_ms,residual,status
+Jewell  (Hash + Pivot),2,1,0.108375,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,2,0.023250,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,3,0.016208,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,4,0.013709,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,5,0.013000,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,6,0.013083,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,7,0.012250,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,8,0.014250,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,9,0.012083,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,10,0.011958,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,11,0.011875,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,12,0.012167,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,13,0.011917,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,14,0.012500,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,15,0.011875,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,16,0.011916,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,17,0.011666,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,18,0.011708,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,19,0.011875,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,20,0.011833,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,21,0.011792,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,22,0.011958,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,23,0.011708,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,24,0.011416,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,25,0.011667,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,26,0.011750,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,27,0.012041,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,28,0.011875,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,29,0.012167,3.552714e-15,OK
+Jewell  (Hash + Pivot),2,30,0.011583,3.552714e-15,OK
+Carson  (LU Decomp),2,1,5.302333,3.552714e-15,OK
+Carson  (LU Decomp),2,2,0.076333,3.552714e-15,OK
+Carson  (LU Decomp),2,3,0.058125,3.552714e-15,OK
+Carson  (LU Decomp),2,4,0.050917,3.552714e-15,OK
+Carson  (LU Decomp),2,5,0.049750,3.552714e-15,OK
+Carson  (LU Decomp),2,6,0.046916,3.552714e-15,OK
+Carson  (LU Decomp),2,7,0.046209,3.552714e-15,OK
+Carson  (LU Decomp),2,8,0.044125,3.552714e-15,OK
+Carson  (LU Decomp),2,9,0.044041,3.552714e-15,OK
+Carson  (LU Decomp),2,10,0.044250,3.552714e-15,OK
+Carson  (LU Decomp),2,11,0.043792,3.552714e-15,OK
+Carson  (LU Decomp),2,12,0.045791,3.552714e-15,OK
+Carson  (LU Decomp),2,13,0.042917,3.552714e-15,OK
+Carson  (LU Decomp),2,14,0.043792,3.552714e-15,OK
+Carson  (LU Decomp),2,15,0.043834,3.552714e-15,OK
+Carson  (LU Decomp),2,16,0.042542,3.552714e-15,OK
+Carson  (LU Decomp),2,17,0.042708,3.552714e-15,OK
+Carson  (LU Decomp),2,18,0.047958,3.552714e-15,OK
+Carson  (LU Decomp),2,19,0.103333,3.552714e-15,OK
+Carson  (LU Decomp),2,20,0.073625,3.552714e-15,OK
+Carson  (LU Decomp),2,21,0.064584,3.552714e-15,OK
+Carson  (LU Decomp),2,22,0.047875,3.552714e-15,OK
+Carson  (LU Decomp),2,23,0.048083,3.552714e-15,OK
+Carson  (LU Decomp),2,24,0.044583,3.552714e-15,OK
+Carson  (LU Decomp),2,25,0.045500,3.552714e-15,OK
+Carson  (LU Decomp),2,26,0.044666,3.552714e-15,OK
+Carson  (LU Decomp),2,27,0.047167,3.552714e-15,OK
+Carson  (LU Decomp),2,28,0.042917,3.552714e-15,OK
+Carson  (LU Decomp),2,29,0.044250,3.552714e-15,OK
+Carson  (LU Decomp),2,30,0.042333,3.552714e-15,OK
+Damian  (RREF),2,1,0.021541,3.552714e-15,OK
+Damian  (RREF),2,2,0.009750,3.552714e-15,OK
+Damian  (RREF),2,3,0.006583,3.552714e-15,OK
+Damian  (RREF),2,4,0.005542,3.552714e-15,OK
+Damian  (RREF),2,5,0.005417,3.552714e-15,OK
+Damian  (RREF),2,6,0.005292,3.552714e-15,OK
+Damian  (RREF),2,7,0.005042,3.552714e-15,OK
+Damian  (RREF),2,8,0.005042,3.552714e-15,OK
+Damian  (RREF),2,9,0.004917,3.552714e-15,OK
+Damian  (RREF),2,10,0.005125,3.552714e-15,OK
+Damian  (RREF),2,11,0.004959,3.552714e-15,OK
+Damian  (RREF),2,12,0.005208,3.552714e-15,OK
+Damian  (RREF),2,13,0.004833,3.552714e-15,OK
+Damian  (RREF),2,14,0.005166,3.552714e-15,OK
+Damian  (RREF),2,15,0.004834,3.552714e-15,OK
+Damian  (RREF),2,16,0.004792,3.552714e-15,OK
+Damian  (RREF),2,17,0.004959,3.552714e-15,OK
+Damian  (RREF),2,18,0.004917,3.552714e-15,OK
+Damian  (RREF),2,19,0.004875,3.552714e-15,OK
+Damian  (RREF),2,20,0.004834,3.552714e-15,OK
+Damian  (RREF),2,21,0.005083,3.552714e-15,OK
+Damian  (RREF),2,22,0.004917,3.552714e-15,OK
+Damian  (RREF),2,23,0.005041,3.552714e-15,OK
+Damian  (RREF),2,24,0.005000,3.552714e-15,OK
+Damian  (RREF),2,25,0.004833,3.552714e-15,OK
+Damian  (RREF),2,26,0.004833,3.552714e-15,OK
+Damian  (RREF),2,27,0.004792,3.552714e-15,OK
+Damian  (RREF),2,28,0.004792,3.552714e-15,OK
+Damian  (RREF),2,29,0.004958,3.552714e-15,OK
+Damian  (RREF),2,30,0.005000,3.552714e-15,OK
+Tyler   (Graph-based),2,1,0.403959,3.552714e-15,OK
+Tyler   (Graph-based),2,2,0.066750,3.552714e-15,OK
+Tyler   (Graph-based),2,3,0.051334,3.552714e-15,OK
+Tyler   (Graph-based),2,4,0.047875,3.552714e-15,OK
+Tyler   (Graph-based),2,5,0.047083,3.552714e-15,OK
+Tyler   (Graph-based),2,6,0.045125,3.552714e-15,OK
+Tyler   (Graph-based),2,7,0.042833,3.552714e-15,OK
+Tyler   (Graph-based),2,8,0.042333,3.552714e-15,OK
+Tyler   (Graph-based),2,9,0.043917,3.552714e-15,OK
+Tyler   (Graph-based),2,10,0.043000,3.552714e-15,OK
+Tyler   (Graph-based),2,11,0.042041,3.552714e-15,OK
+Tyler   (Graph-based),2,12,0.044000,3.552714e-15,OK
+Tyler   (Graph-based),2,13,0.041583,3.552714e-15,OK
+Tyler   (Graph-based),2,14,0.042500,3.552714e-15,OK
+Tyler   (Graph-based),2,15,0.041958,3.552714e-15,OK
+Tyler   (Graph-based),2,16,0.046333,3.552714e-15,OK
+Tyler   (Graph-based),2,17,0.042000,3.552714e-15,OK
+Tyler   (Graph-based),2,18,0.041375,3.552714e-15,OK
+Tyler   (Graph-based),2,19,0.041417,3.552714e-15,OK
+Tyler   (Graph-based),2,20,0.042875,3.552714e-15,OK
+Tyler   (Graph-based),2,21,0.041833,3.552714e-15,OK
+Tyler   (Graph-based),2,22,0.041250,3.552714e-15,OK
+Tyler   (Graph-based),2,23,0.041166,3.552714e-15,OK
+Tyler   (Graph-based),2,24,0.040917,3.552714e-15,OK
+Tyler   (Graph-based),2,25,0.041042,3.552714e-15,OK
+Tyler   (Graph-based),2,26,0.041125,3.552714e-15,OK
+Tyler   (Graph-based),2,27,0.047000,3.552714e-15,OK
+Tyler   (Graph-based),2,28,0.041458,3.552714e-15,OK
+Tyler   (Graph-based),2,29,0.042250,3.552714e-15,OK
+Tyler   (Graph-based),2,30,0.041833,3.552714e-15,OK
+Jewell  (Hash + Pivot),4,1,0.070333,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,2,0.041542,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,3,0.039500,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,4,0.038959,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,5,0.038667,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,6,0.038625,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,7,0.038209,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,8,0.037667,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,9,0.038000,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,10,0.037625,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,11,0.037209,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,12,0.037791,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,13,0.037459,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,14,0.037750,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,15,0.037708,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,16,0.038750,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,17,0.037417,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,18,0.037500,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,19,0.037500,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,20,0.037375,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,21,0.037375,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,22,0.037166,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,23,0.037209,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,24,0.037500,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,25,0.037416,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,26,0.037166,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,27,0.037625,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,28,0.037667,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,29,0.037625,6.081266e-14,OK
+Jewell  (Hash + Pivot),4,30,0.037500,6.081266e-14,OK
+Carson  (LU Decomp),4,1,0.081958,7.720654e+01,OK
+Carson  (LU Decomp),4,2,0.053750,7.720654e+01,OK
+Carson  (LU Decomp),4,3,0.047458,7.720654e+01,OK
+Carson  (LU Decomp),4,4,0.045500,7.720654e+01,OK
+Carson  (LU Decomp),4,5,0.046542,7.720654e+01,OK
+Carson  (LU Decomp),4,6,0.046250,7.720654e+01,OK
+Carson  (LU Decomp),4,7,0.044458,7.720654e+01,OK
+Carson  (LU Decomp),4,8,0.052750,7.720654e+01,OK
+Carson  (LU Decomp),4,9,0.043667,7.720654e+01,OK
+Carson  (LU Decomp),4,10,0.043583,7.720654e+01,OK
+Carson  (LU Decomp),4,11,0.044500,7.720654e+01,OK
+Carson  (LU Decomp),4,12,0.044209,7.720654e+01,OK
+Carson  (LU Decomp),4,13,0.043125,7.720654e+01,OK
+Carson  (LU Decomp),4,14,0.043500,7.720654e+01,OK
+Carson  (LU Decomp),4,15,0.043125,7.720654e+01,OK
+Carson  (LU Decomp),4,16,0.043000,7.720654e+01,OK
+Carson  (LU Decomp),4,17,0.043375,7.720654e+01,OK
+Carson  (LU Decomp),4,18,0.043333,7.720654e+01,OK
+Carson  (LU Decomp),4,19,0.043459,7.720654e+01,OK
+Carson  (LU Decomp),4,20,0.043708,7.720654e+01,OK
+Carson  (LU Decomp),4,21,0.043292,7.720654e+01,OK
+Carson  (LU Decomp),4,22,0.042875,7.720654e+01,OK
+Carson  (LU Decomp),4,23,0.043833,7.720654e+01,OK
+Carson  (LU Decomp),4,24,0.043042,7.720654e+01,OK
+Carson  (LU Decomp),4,25,0.043416,7.720654e+01,OK
+Carson  (LU Decomp),4,26,0.042833,7.720654e+01,OK
+Carson  (LU Decomp),4,27,0.044167,7.720654e+01,OK
+Carson  (LU Decomp),4,28,0.046125,7.720654e+01,OK
+Carson  (LU Decomp),4,29,0.046167,7.720654e+01,OK
+Carson  (LU Decomp),4,30,0.044084,7.720654e+01,OK
+Damian  (RREF),4,1,0.023334,6.521915e-14,OK
+Damian  (RREF),4,2,0.016875,6.521915e-14,OK
+Damian  (RREF),4,3,0.016416,6.521915e-14,OK
+Damian  (RREF),4,4,0.016375,6.521915e-14,OK
+Damian  (RREF),4,5,0.015625,6.521915e-14,OK
+Damian  (RREF),4,6,0.015666,6.521915e-14,OK
+Damian  (RREF),4,7,0.015417,6.521915e-14,OK
+Damian  (RREF),4,8,0.015375,6.521915e-14,OK
+Damian  (RREF),4,9,0.015375,6.521915e-14,OK
+Damian  (RREF),4,10,0.015333,6.521915e-14,OK
+Damian  (RREF),4,11,0.015292,6.521915e-14,OK
+Damian  (RREF),4,12,0.015209,6.521915e-14,OK
+Damian  (RREF),4,13,0.015209,6.521915e-14,OK
+Damian  (RREF),4,14,0.015458,6.521915e-14,OK
+Damian  (RREF),4,15,0.015292,6.521915e-14,OK
+Damian  (RREF),4,16,0.015625,6.521915e-14,OK
+Damian  (RREF),4,17,0.015458,6.521915e-14,OK
+Damian  (RREF),4,18,0.015333,6.521915e-14,OK
+Damian  (RREF),4,19,0.015292,6.521915e-14,OK
+Damian  (RREF),4,20,0.015334,6.521915e-14,OK
+Damian  (RREF),4,21,0.015417,6.521915e-14,OK
+Damian  (RREF),4,22,0.015334,6.521915e-14,OK
+Damian  (RREF),4,23,0.015875,6.521915e-14,OK
+Damian  (RREF),4,24,0.015708,6.521915e-14,OK
+Damian  (RREF),4,25,0.015209,6.521915e-14,OK
+Damian  (RREF),4,26,0.015125,6.521915e-14,OK
+Damian  (RREF),4,27,0.015458,6.521915e-14,OK
+Damian  (RREF),4,28,0.015375,6.521915e-14,OK
+Damian  (RREF),4,29,0.015375,6.521915e-14,OK
+Damian  (RREF),4,30,0.015208,6.521915e-14,OK
+Tyler   (Graph-based),4,1,0.255500,5.136099e-14,OK
+Tyler   (Graph-based),4,2,0.234917,5.136099e-14,OK
+Tyler   (Graph-based),4,3,0.230083,5.136099e-14,OK
+Tyler   (Graph-based),4,4,0.231416,5.136099e-14,OK
+Tyler   (Graph-based),4,5,0.231834,5.136099e-14,OK
+Tyler   (Graph-based),4,6,0.233583,5.136099e-14,OK
+Tyler   (Graph-based),4,7,0.231709,5.136099e-14,OK
+Tyler   (Graph-based),4,8,0.233708,5.136099e-14,OK
+Tyler   (Graph-based),4,9,0.228375,5.136099e-14,OK
+Tyler   (Graph-based),4,10,0.231792,5.136099e-14,OK
+Tyler   (Graph-based),4,11,0.227666,5.136099e-14,OK
+Tyler   (Graph-based),4,12,0.227666,5.136099e-14,OK
+Tyler   (Graph-based),4,13,0.232875,5.136099e-14,OK
+Tyler   (Graph-based),4,14,0.239834,5.136099e-14,OK
+Tyler   (Graph-based),4,15,0.231459,5.136099e-14,OK
+Tyler   (Graph-based),4,16,0.229875,5.136099e-14,OK
+Tyler   (Graph-based),4,17,0.228542,5.136099e-14,OK
+Tyler   (Graph-based),4,18,0.226542,5.136099e-14,OK
+Tyler   (Graph-based),4,19,0.231625,5.136099e-14,OK
+Tyler   (Graph-based),4,20,0.226333,5.136099e-14,OK
+Tyler   (Graph-based),4,21,0.226042,5.136099e-14,OK
+Tyler   (Graph-based),4,22,0.226166,5.136099e-14,OK
+Tyler   (Graph-based),4,23,0.226583,5.136099e-14,OK
+Tyler   (Graph-based),4,24,0.234000,5.136099e-14,OK
+Tyler   (Graph-based),4,25,0.226709,5.136099e-14,OK
+Tyler   (Graph-based),4,26,0.226917,5.136099e-14,OK
+Tyler   (Graph-based),4,27,0.226584,5.136099e-14,OK
+Tyler   (Graph-based),4,28,0.227375,5.136099e-14,OK
+Tyler   (Graph-based),4,29,0.225541,5.136099e-14,OK
+Tyler   (Graph-based),4,30,0.232750,5.136099e-14,OK
+Jewell  (Hash + Pivot),8,1,0.151583,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,2,0.113541,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,3,0.112000,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,4,0.110959,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,5,0.111875,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,6,0.111292,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,7,0.111083,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,8,0.110583,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,9,0.117125,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,10,0.121042,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,11,0.111500,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,12,0.111416,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,13,0.109834,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,14,0.110125,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,15,0.110125,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,16,0.109584,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,17,0.110458,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,18,0.109917,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,19,0.109500,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,20,0.110333,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,21,0.110333,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,22,0.110042,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,23,0.110708,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,24,0.110333,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,25,0.109917,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,26,0.110333,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,27,0.110084,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,28,0.109417,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,29,0.111125,2.514121e+02,OK
+Jewell  (Hash + Pivot),8,30,0.110291,2.514121e+02,OK
+Carson  (LU Decomp),8,1,0.081042,2.018494e+02,OK
+Carson  (LU Decomp),8,2,0.055959,2.018494e+02,OK
+Carson  (LU Decomp),8,3,0.049292,2.018494e+02,OK
+Carson  (LU Decomp),8,4,0.047792,2.018494e+02,OK
+Carson  (LU Decomp),8,5,0.047042,2.018494e+02,OK
+Carson  (LU Decomp),8,6,0.046625,2.018494e+02,OK
+Carson  (LU Decomp),8,7,0.046084,2.018494e+02,OK
+Carson  (LU Decomp),8,8,0.046958,2.018494e+02,OK
+Carson  (LU Decomp),8,9,0.046167,2.018494e+02,OK
+Carson  (LU Decomp),8,10,0.046250,2.018494e+02,OK
+Carson  (LU Decomp),8,11,0.046125,2.018494e+02,OK
+Carson  (LU Decomp),8,12,0.046042,2.018494e+02,OK
+Carson  (LU Decomp),8,13,0.045709,2.018494e+02,OK
+Carson  (LU Decomp),8,14,0.045666,2.018494e+02,OK
+Carson  (LU Decomp),8,15,0.046208,2.018494e+02,OK
+Carson  (LU Decomp),8,16,0.045583,2.018494e+02,OK
+Carson  (LU Decomp),8,17,0.045750,2.018494e+02,OK
+Carson  (LU Decomp),8,18,0.045459,2.018494e+02,OK
+Carson  (LU Decomp),8,19,0.045333,2.018494e+02,OK
+Carson  (LU Decomp),8,20,0.045875,2.018494e+02,OK
+Carson  (LU Decomp),8,21,0.045625,2.018494e+02,OK
+Carson  (LU Decomp),8,22,0.045750,2.018494e+02,OK
+Carson  (LU Decomp),8,23,0.046583,2.018494e+02,OK
+Carson  (LU Decomp),8,24,0.052375,2.018494e+02,OK
+Carson  (LU Decomp),8,25,0.046167,2.018494e+02,OK
+Carson  (LU Decomp),8,26,0.047208,2.018494e+02,OK
+Carson  (LU Decomp),8,27,0.046333,2.018494e+02,OK
+Carson  (LU Decomp),8,28,0.045375,2.018494e+02,OK
+Carson  (LU Decomp),8,29,0.045416,2.018494e+02,OK
+Carson  (LU Decomp),8,30,0.045875,2.018494e+02,OK
+Damian  (RREF),8,1,0.081542,4.633506e-12,OK
+Damian  (RREF),8,2,0.075625,4.633506e-12,OK
+Damian  (RREF),8,3,0.075416,4.633506e-12,OK
+Damian  (RREF),8,4,0.075041,4.633506e-12,OK
+Damian  (RREF),8,5,0.074375,4.633506e-12,OK
+Damian  (RREF),8,6,0.074000,4.633506e-12,OK
+Damian  (RREF),8,7,0.073791,4.633506e-12,OK
+Damian  (RREF),8,8,0.074209,4.633506e-12,OK
+Damian  (RREF),8,9,0.074625,4.633506e-12,OK
+Damian  (RREF),8,10,0.074083,4.633506e-12,OK
+Damian  (RREF),8,11,0.074167,4.633506e-12,OK
+Damian  (RREF),8,12,0.080916,4.633506e-12,OK
+Damian  (RREF),8,13,0.085333,4.633506e-12,OK
+Damian  (RREF),8,14,0.074292,4.633506e-12,OK
+Damian  (RREF),8,15,0.073584,4.633506e-12,OK
+Damian  (RREF),8,16,0.074166,4.633506e-12,OK
+Damian  (RREF),8,17,0.074084,4.633506e-12,OK
+Damian  (RREF),8,18,0.074083,4.633506e-12,OK
+Damian  (RREF),8,19,0.073875,4.633506e-12,OK
+Damian  (RREF),8,20,0.074125,4.633506e-12,OK
+Damian  (RREF),8,21,0.074708,4.633506e-12,OK
+Damian  (RREF),8,22,0.074500,4.633506e-12,OK
+Damian  (RREF),8,23,0.074959,4.633506e-12,OK
+Damian  (RREF),8,24,0.077208,4.633506e-12,OK
+Damian  (RREF),8,25,0.073750,4.633506e-12,OK
+Damian  (RREF),8,26,0.073667,4.633506e-12,OK
+Damian  (RREF),8,27,0.073416,4.633506e-12,OK
+Damian  (RREF),8,28,0.073417,4.633506e-12,OK
+Damian  (RREF),8,29,0.076833,4.633506e-12,OK
+Damian  (RREF),8,30,0.073750,4.633506e-12,OK
+Tyler   (Graph-based),8,1,1.625916,2.958007e-12,OK
+Tyler   (Graph-based),8,2,1.622708,2.958007e-12,OK
+Tyler   (Graph-based),8,3,1.620708,2.958007e-12,OK
+Tyler   (Graph-based),8,4,1.585875,2.958007e-12,OK
+Tyler   (Graph-based),8,5,1.670958,2.958007e-12,OK
+Tyler   (Graph-based),8,6,1.703917,2.958007e-12,OK
+Tyler   (Graph-based),8,7,1.585625,2.958007e-12,OK
+Tyler   (Graph-based),8,8,1.588000,2.958007e-12,OK
+Tyler   (Graph-based),8,9,1.605417,2.958007e-12,OK
+Tyler   (Graph-based),8,10,1.583625,2.958007e-12,OK
+Tyler   (Graph-based),8,11,1.597125,2.958007e-12,OK
+Tyler   (Graph-based),8,12,1.593292,2.958007e-12,OK
+Tyler   (Graph-based),8,13,1.600333,2.958007e-12,OK
+Tyler   (Graph-based),8,14,1.577750,2.958007e-12,OK
+Tyler   (Graph-based),8,15,1.584833,2.958007e-12,OK
+Tyler   (Graph-based),8,16,1.602459,2.958007e-12,OK
+Tyler   (Graph-based),8,17,1.592125,2.958007e-12,OK
+Tyler   (Graph-based),8,18,1.579375,2.958007e-12,OK
+Tyler   (Graph-based),8,19,1.619833,2.958007e-12,OK
+Tyler   (Graph-based),8,20,1.579000,2.958007e-12,OK
+Tyler   (Graph-based),8,21,1.590541,2.958007e-12,OK
+Tyler   (Graph-based),8,22,1.600959,2.958007e-12,OK
+Tyler   (Graph-based),8,23,1.595083,2.958007e-12,OK
+Tyler   (Graph-based),8,24,1.582333,2.958007e-12,OK
+Tyler   (Graph-based),8,25,1.600458,2.958007e-12,OK
+Tyler   (Graph-based),8,26,1.627959,2.958007e-12,OK
+Tyler   (Graph-based),8,27,1.574792,2.958007e-12,OK
+Tyler   (Graph-based),8,28,1.581625,2.958007e-12,OK
+Tyler   (Graph-based),8,29,1.597708,2.958007e-12,OK
+Tyler   (Graph-based),8,30,1.591000,2.958007e-12,OK
+Jewell  (Hash + Pivot),16,1,0.454791,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,2,0.349792,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,3,0.348084,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,4,0.346041,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,5,0.346625,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,6,0.348084,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,7,0.345583,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,8,0.344875,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,9,0.380792,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,10,0.345000,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,11,0.346667,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,12,0.345291,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,13,0.343208,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,14,0.345667,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,15,0.347375,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,16,0.344084,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,17,0.345292,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,18,0.343833,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,19,0.345166,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,20,0.344542,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,21,0.344958,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,22,0.345917,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,23,0.378709,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,24,0.387417,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,25,0.345500,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,26,0.346375,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,27,0.345583,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,28,0.344458,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,29,0.344917,4.453581e+01,OK
+Jewell  (Hash + Pivot),16,30,0.344500,4.453581e+01,OK
+Carson  (LU Decomp),16,1,0.098708,3.101892e+02,OK
+Carson  (LU Decomp),16,2,0.061334,3.101892e+02,OK
+Carson  (LU Decomp),16,3,0.055208,3.101892e+02,OK
+Carson  (LU Decomp),16,4,0.054125,3.101892e+02,OK
+Carson  (LU Decomp),16,5,0.053791,3.101892e+02,OK
+Carson  (LU Decomp),16,6,0.052875,3.101892e+02,OK
+Carson  (LU Decomp),16,7,0.053291,3.101892e+02,OK
+Carson  (LU Decomp),16,8,0.053208,3.101892e+02,OK
+Carson  (LU Decomp),16,9,0.052542,3.101892e+02,OK
+Carson  (LU Decomp),16,10,0.051750,3.101892e+02,OK
+Carson  (LU Decomp),16,11,0.052625,3.101892e+02,OK
+Carson  (LU Decomp),16,12,0.051750,3.101892e+02,OK
+Carson  (LU Decomp),16,13,0.051708,3.101892e+02,OK
+Carson  (LU Decomp),16,14,0.052500,3.101892e+02,OK
+Carson  (LU Decomp),16,15,0.051542,3.101892e+02,OK
+Carson  (LU Decomp),16,16,0.051916,3.101892e+02,OK
+Carson  (LU Decomp),16,17,0.051625,3.101892e+02,OK
+Carson  (LU Decomp),16,18,0.051500,3.101892e+02,OK
+Carson  (LU Decomp),16,19,0.051333,3.101892e+02,OK
+Carson  (LU Decomp),16,20,0.051250,3.101892e+02,OK
+Carson  (LU Decomp),16,21,0.051500,3.101892e+02,OK
+Carson  (LU Decomp),16,22,0.051666,3.101892e+02,OK
+Carson  (LU Decomp),16,23,0.051458,3.101892e+02,OK
+Carson  (LU Decomp),16,24,0.051458,3.101892e+02,OK
+Carson  (LU Decomp),16,25,0.051416,3.101892e+02,OK
+Carson  (LU Decomp),16,26,0.051208,3.101892e+02,OK
+Carson  (LU Decomp),16,27,0.051375,3.101892e+02,OK
+Carson  (LU Decomp),16,28,0.051083,3.101892e+02,OK
+Carson  (LU Decomp),16,29,0.051541,3.101892e+02,OK
+Carson  (LU Decomp),16,30,0.051958,3.101892e+02,OK
+Damian  (RREF),16,1,0.463542,1.461940e-12,OK
+Damian  (RREF),16,2,0.463917,1.461940e-12,OK
+Damian  (RREF),16,3,0.461708,1.461940e-12,OK
+Damian  (RREF),16,4,0.453667,1.461940e-12,OK
+Damian  (RREF),16,5,0.452625,1.461940e-12,OK
+Damian  (RREF),16,6,0.458708,1.461940e-12,OK
+Damian  (RREF),16,7,0.460250,1.461940e-12,OK
+Damian  (RREF),16,8,0.456500,1.461940e-12,OK
+Damian  (RREF),16,9,0.452583,1.461940e-12,OK
+Damian  (RREF),16,10,0.450375,1.461940e-12,OK
+Damian  (RREF),16,11,0.454000,1.461940e-12,OK
+Damian  (RREF),16,12,0.451000,1.461940e-12,OK
+Damian  (RREF),16,13,0.450625,1.461940e-12,OK
+Damian  (RREF),16,14,0.469584,1.461940e-12,OK
+Damian  (RREF),16,15,0.449708,1.461940e-12,OK
+Damian  (RREF),16,16,0.447750,1.461940e-12,OK
+Damian  (RREF),16,17,0.452167,1.461940e-12,OK
+Damian  (RREF),16,18,0.457417,1.461940e-12,OK
+Damian  (RREF),16,19,0.453917,1.461940e-12,OK
+Damian  (RREF),16,20,0.453292,1.461940e-12,OK
+Damian  (RREF),16,21,0.452958,1.461940e-12,OK
+Damian  (RREF),16,22,0.453667,1.461940e-12,OK
+Damian  (RREF),16,23,0.453916,1.461940e-12,OK
+Damian  (RREF),16,24,0.454750,1.461940e-12,OK
+Damian  (RREF),16,25,0.459042,1.461940e-12,OK
+Damian  (RREF),16,26,0.459084,1.461940e-12,OK
+Damian  (RREF),16,27,0.454250,1.461940e-12,OK
+Damian  (RREF),16,28,0.476291,1.461940e-12,OK
+Damian  (RREF),16,29,0.479958,1.461940e-12,OK
+Damian  (RREF),16,30,0.450958,1.461940e-12,OK
+Tyler   (Graph-based),16,1,12.092458,1.191070e-12,OK
+Tyler   (Graph-based),16,2,11.981291,1.191070e-12,OK
+Tyler   (Graph-based),16,3,12.000041,1.191070e-12,OK
+Tyler   (Graph-based),16,4,11.990000,1.191070e-12,OK
+Tyler   (Graph-based),16,5,11.967750,1.191070e-12,OK
+Tyler   (Graph-based),16,6,12.020875,1.191070e-12,OK
+Tyler   (Graph-based),16,7,14.320375,1.191070e-12,OK
+Tyler   (Graph-based),16,8,12.005542,1.191070e-12,OK
+Tyler   (Graph-based),16,9,12.062834,1.191070e-12,OK
+Tyler   (Graph-based),16,10,11.913917,1.191070e-12,OK
+Tyler   (Graph-based),16,11,11.943250,1.191070e-12,OK
+Tyler   (Graph-based),16,12,11.954750,1.191070e-12,OK
+Tyler   (Graph-based),16,13,12.009041,1.191070e-12,OK
+Tyler   (Graph-based),16,14,12.011875,1.191070e-12,OK
+Tyler   (Graph-based),16,15,11.981584,1.191070e-12,OK
+Tyler   (Graph-based),16,16,12.011708,1.191070e-12,OK
+Tyler   (Graph-based),16,17,12.165167,1.191070e-12,OK
+Tyler   (Graph-based),16,18,12.122084,1.191070e-12,OK
+Tyler   (Graph-based),16,19,12.025750,1.191070e-12,OK
+Tyler   (Graph-based),16,20,12.010709,1.191070e-12,OK
+Tyler   (Graph-based),16,21,12.015417,1.191070e-12,OK
+Tyler   (Graph-based),16,22,11.991042,1.191070e-12,OK
+Tyler   (Graph-based),16,23,11.971709,1.191070e-12,OK
+Tyler   (Graph-based),16,24,12.015334,1.191070e-12,OK
+Tyler   (Graph-based),16,25,12.055791,1.191070e-12,OK
+Tyler   (Graph-based),16,26,11.979166,1.191070e-12,OK
+Tyler   (Graph-based),16,27,12.017375,1.191070e-12,OK
+Tyler   (Graph-based),16,28,11.984292,1.191070e-12,OK
+Tyler   (Graph-based),16,29,12.033666,1.191070e-12,OK
+Tyler   (Graph-based),16,30,11.938750,1.191070e-12,OK
+Jewell  (Hash + Pivot),32,1,1.671208,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,2,1.249542,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,3,1.205000,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,4,1.233959,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,5,1.214625,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,6,1.226209,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,7,1.202625,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,8,1.214792,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,9,1.210000,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,10,1.203042,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,11,1.234958,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,12,1.222375,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,13,1.209584,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,14,1.206625,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,15,1.237333,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,16,1.204709,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,17,1.204834,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,18,1.205625,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,19,1.215333,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,20,1.225417,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,21,1.205792,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,22,1.210458,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,23,1.209500,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,24,1.222417,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,25,1.204167,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,26,1.202666,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,27,1.195916,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,28,1.221250,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,29,1.202833,1.163116e+03,OK
+Jewell  (Hash + Pivot),32,30,1.206667,1.163116e+03,OK
+Carson  (LU Decomp),32,1,0.158250,4.450298e+02,OK
+Carson  (LU Decomp),32,2,0.097333,4.450298e+02,OK
+Carson  (LU Decomp),32,3,0.080250,4.450298e+02,OK
+Carson  (LU Decomp),32,4,0.074375,4.450298e+02,OK
+Carson  (LU Decomp),32,5,0.071791,4.450298e+02,OK
+Carson  (LU Decomp),32,6,0.073959,4.450298e+02,OK
+Carson  (LU Decomp),32,7,0.070625,4.450298e+02,OK
+Carson  (LU Decomp),32,8,0.070542,4.450298e+02,OK
+Carson  (LU Decomp),32,9,0.070542,4.450298e+02,OK
+Carson  (LU Decomp),32,10,0.069833,4.450298e+02,OK
+Carson  (LU Decomp),32,11,0.070583,4.450298e+02,OK
+Carson  (LU Decomp),32,12,0.070042,4.450298e+02,OK
+Carson  (LU Decomp),32,13,0.069334,4.450298e+02,OK
+Carson  (LU Decomp),32,14,0.069834,4.450298e+02,OK
+Carson  (LU Decomp),32,15,0.068708,4.450298e+02,OK
+Carson  (LU Decomp),32,16,0.069500,4.450298e+02,OK
+Carson  (LU Decomp),32,17,0.069333,4.450298e+02,OK
+Carson  (LU Decomp),32,18,0.069958,4.450298e+02,OK
+Carson  (LU Decomp),32,19,0.069042,4.450298e+02,OK
+Carson  (LU Decomp),32,20,0.069166,4.450298e+02,OK
+Carson  (LU Decomp),32,21,0.068167,4.450298e+02,OK
+Carson  (LU Decomp),32,22,0.069375,4.450298e+02,OK
+Carson  (LU Decomp),32,23,0.068667,4.450298e+02,OK
+Carson  (LU Decomp),32,24,0.068791,4.450298e+02,OK
+Carson  (LU Decomp),32,25,0.069584,4.450298e+02,OK
+Carson  (LU Decomp),32,26,0.078375,4.450298e+02,OK
+Carson  (LU Decomp),32,27,0.069750,4.450298e+02,OK
+Carson  (LU Decomp),32,28,0.068500,4.450298e+02,OK
+Carson  (LU Decomp),32,29,0.075125,4.450298e+02,OK
+Carson  (LU Decomp),32,30,0.079125,4.450298e+02,OK
+Damian  (RREF),32,1,3.187041,2.210922e-11,OK
+Damian  (RREF),32,2,3.233459,2.210922e-11,OK
+Damian  (RREF),32,3,3.167459,2.210922e-11,OK
+Damian  (RREF),32,4,3.222917,2.210922e-11,OK
+Damian  (RREF),32,5,3.157042,2.210922e-11,OK
+Damian  (RREF),32,6,3.170875,2.210922e-11,OK
+Damian  (RREF),32,7,3.208791,2.210922e-11,OK
+Damian  (RREF),32,8,3.193292,2.210922e-11,OK
+Damian  (RREF),32,9,3.188791,2.210922e-11,OK
+Damian  (RREF),32,10,3.250291,2.210922e-11,OK
+Damian  (RREF),32,11,3.185083,2.210922e-11,OK
+Damian  (RREF),32,12,3.182375,2.210922e-11,OK
+Damian  (RREF),32,13,3.183750,2.210922e-11,OK
+Damian  (RREF),32,14,3.160583,2.210922e-11,OK
+Damian  (RREF),32,15,3.218917,2.210922e-11,OK
+Damian  (RREF),32,16,3.156958,2.210922e-11,OK
+Damian  (RREF),32,17,3.181166,2.210922e-11,OK
+Damian  (RREF),32,18,3.173500,2.210922e-11,OK
+Damian  (RREF),32,19,3.168417,2.210922e-11,OK
+Damian  (RREF),32,20,3.209583,2.210922e-11,OK
+Damian  (RREF),32,21,3.168292,2.210922e-11,OK
+Damian  (RREF),32,22,3.180334,2.210922e-11,OK
+Damian  (RREF),32,23,3.173708,2.210922e-11,OK
+Damian  (RREF),32,24,3.154875,2.210922e-11,OK
+Damian  (RREF),32,25,3.203208,2.210922e-11,OK
+Damian  (RREF),32,26,3.156542,2.210922e-11,OK
+Damian  (RREF),32,27,3.177375,2.210922e-11,OK
+Damian  (RREF),32,28,3.171709,2.210922e-11,OK
+Damian  (RREF),32,29,3.211458,2.210922e-11,OK
+Damian  (RREF),32,30,3.185458,2.210922e-11,OK
+Tyler   (Graph-based),32,1,95.219708,1.006939e-11,OK
+Tyler   (Graph-based),32,2,94.540375,1.006939e-11,OK
+Tyler   (Graph-based),32,3,93.695375,1.006939e-11,OK
+Tyler   (Graph-based),32,4,93.633292,1.006939e-11,OK
+Tyler   (Graph-based),32,5,93.562959,1.006939e-11,OK
+Tyler   (Graph-based),32,6,93.548417,1.006939e-11,OK
+Tyler   (Graph-based),32,7,93.644208,1.006939e-11,OK
+Tyler   (Graph-based),32,8,93.748417,1.006939e-11,OK
+Tyler   (Graph-based),32,9,95.150542,1.006939e-11,OK
+Tyler   (Graph-based),32,10,93.826542,1.006939e-11,OK
+Tyler   (Graph-based),32,11,93.891458,1.006939e-11,OK
+Tyler   (Graph-based),32,12,93.724834,1.006939e-11,OK
+Tyler   (Graph-based),32,13,95.547625,1.006939e-11,OK
+Tyler   (Graph-based),32,14,93.636875,1.006939e-11,OK
+Tyler   (Graph-based),32,15,93.835417,1.006939e-11,OK
+Tyler   (Graph-based),32,16,93.475041,1.006939e-11,OK
+Tyler   (Graph-based),32,17,101.310250,1.006939e-11,OK
+Tyler   (Graph-based),32,18,109.207042,1.006939e-11,OK
+Tyler   (Graph-based),32,19,133.164833,1.006939e-11,OK
+Tyler   (Graph-based),32,20,447.206458,1.006939e-11,OK
+Tyler   (Graph-based),32,21,140.183000,1.006939e-11,OK
+Tyler   (Graph-based),32,22,107.946917,1.006939e-11,OK
+Tyler   (Graph-based),32,23,129.236666,1.006939e-11,OK
+Tyler   (Graph-based),32,24,133.052834,1.006939e-11,OK
+Tyler   (Graph-based),32,25,855.637916,1.006939e-11,OK
+Tyler   (Graph-based),32,26,1744.820458,1.006939e-11,OK
+Tyler   (Graph-based),32,27,483.941292,1.006939e-11,OK
+Tyler   (Graph-based),32,28,431.272625,1.006939e-11,OK
+Tyler   (Graph-based),32,29,359.128459,1.006939e-11,OK
+Tyler   (Graph-based),32,30,283.207500,1.006939e-11,OK
+Jewell  (Hash + Pivot),64,1,21.143958,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,2,8.867042,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,3,14.173291,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,4,15.999709,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,5,14.338667,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,6,21.158583,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,7,26.062000,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,8,14.818500,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,9,8.550125,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,10,9.065084,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,11,8.955708,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,12,9.617000,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,13,8.214833,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,14,9.094583,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,15,7.455208,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,16,7.680208,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,17,6.644333,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,18,8.159000,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,19,6.899750,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,20,6.912208,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,21,6.919792,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,22,5.839000,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,23,5.954375,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,24,6.032959,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,25,6.232500,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,26,6.057667,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,27,6.028375,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,28,6.879417,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,29,6.259375,5.711116e+02,OK
+Jewell  (Hash + Pivot),64,30,7.195791,5.711116e+02,OK
+Carson  (LU Decomp),64,1,7.181500,6.621845e+02,OK
+Carson  (LU Decomp),64,2,0.245000,6.621845e+02,OK
+Carson  (LU Decomp),64,3,0.204125,6.621845e+02,OK
+Carson  (LU Decomp),64,4,0.226375,6.621845e+02,OK
+Carson  (LU Decomp),64,5,0.201125,6.621845e+02,OK
+Carson  (LU Decomp),64,6,0.197083,6.621845e+02,OK
+Carson  (LU Decomp),64,7,0.245709,6.621845e+02,OK
+Carson  (LU Decomp),64,8,0.214209,6.621845e+02,OK
+Carson  (LU Decomp),64,9,0.183916,6.621845e+02,OK
+Carson  (LU Decomp),64,10,0.182417,6.621845e+02,OK
+Carson  (LU Decomp),64,11,0.205083,6.621845e+02,OK
+Carson  (LU Decomp),64,12,0.174417,6.621845e+02,OK
+Carson  (LU Decomp),64,13,0.169458,6.621845e+02,OK
+Carson  (LU Decomp),64,14,2.674916,6.621845e+02,OK
+Carson  (LU Decomp),64,15,0.190166,6.621845e+02,OK
+Carson  (LU Decomp),64,16,0.216125,6.621845e+02,OK
+Carson  (LU Decomp),64,17,0.166292,6.621845e+02,OK
+Carson  (LU Decomp),64,18,0.162167,6.621845e+02,OK
+Carson  (LU Decomp),64,19,0.166584,6.621845e+02,OK
+Carson  (LU Decomp),64,20,0.188291,6.621845e+02,OK
+Carson  (LU Decomp),64,21,0.179459,6.621845e+02,OK
+Carson  (LU Decomp),64,22,0.185583,6.621845e+02,OK
+Carson  (LU Decomp),64,23,0.174500,6.621845e+02,OK
+Carson  (LU Decomp),64,24,0.192875,6.621845e+02,OK
+Carson  (LU Decomp),64,25,0.214125,6.621845e+02,OK
+Carson  (LU Decomp),64,26,0.180000,6.621845e+02,OK
+Carson  (LU Decomp),64,27,0.171375,6.621845e+02,OK
+Carson  (LU Decomp),64,28,0.216167,6.621845e+02,OK
+Carson  (LU Decomp),64,29,0.336125,6.621845e+02,OK
+Carson  (LU Decomp),64,30,0.228375,6.621845e+02,OK
+Damian  (RREF),64,1,44.995667,8.043176e-11,OK
+Damian  (RREF),64,2,39.274250,8.043176e-11,OK
+Damian  (RREF),64,3,37.952750,8.043176e-11,OK
+Damian  (RREF),64,4,36.683209,8.043176e-11,OK
+Damian  (RREF),64,5,38.894250,8.043176e-11,OK
+Damian  (RREF),64,6,36.703917,8.043176e-11,OK
+Damian  (RREF),64,7,37.058625,8.043176e-11,OK
+Damian  (RREF),64,8,37.231250,8.043176e-11,OK
+Damian  (RREF),64,9,54.939667,8.043176e-11,OK
+Damian  (RREF),64,10,659.588208,8.043176e-11,OK
+Damian  (RREF),64,11,173.930000,8.043176e-11,OK
+Damian  (RREF),64,12,68.245333,8.043176e-11,OK
+Damian  (RREF),64,13,82.304916,8.043176e-11,OK
+Damian  (RREF),64,14,61.609167,8.043176e-11,OK
+Damian  (RREF),64,15,60.140500,8.043176e-11,OK
+Damian  (RREF),64,16,55.738959,8.043176e-11,OK
+Damian  (RREF),64,17,51.599750,8.043176e-11,OK
+Damian  (RREF),64,18,49.051125,8.043176e-11,OK
+Damian  (RREF),64,19,44.159791,8.043176e-11,OK
+Damian  (RREF),64,20,35.844042,8.043176e-11,OK
+Damian  (RREF),64,21,33.830417,8.043176e-11,OK
+Damian  (RREF),64,22,39.794750,8.043176e-11,OK
+Damian  (RREF),64,23,30.522625,8.043176e-11,OK
+Damian  (RREF),64,24,34.415542,8.043176e-11,OK
+Damian  (RREF),64,25,32.600667,8.043176e-11,OK
+Damian  (RREF),64,26,29.312250,8.043176e-11,OK
+Damian  (RREF),64,27,29.743334,8.043176e-11,OK
+Damian  (RREF),64,28,28.271084,8.043176e-11,OK
+Damian  (RREF),64,29,28.101500,8.043176e-11,OK
+Damian  (RREF),64,30,28.053208,8.043176e-11,OK
+Tyler   (Graph-based),64,1,800.603791,2.384257e-10,OK
+Tyler   (Graph-based),64,2,786.869541,2.384257e-10,OK
+Tyler   (Graph-based),64,3,819.986792,2.384257e-10,OK
+Tyler   (Graph-based),64,4,1261.483167,2.384257e-10,OK
+Tyler   (Graph-based),64,5,1244.694416,2.384257e-10,OK
+Tyler   (Graph-based),64,6,790.299750,2.384257e-10,OK
+Tyler   (Graph-based),64,7,876.766125,2.384257e-10,OK
+Tyler   (Graph-based),64,8,1612.370542,2.384257e-10,OK
+Tyler   (Graph-based),64,9,1185.186291,2.384257e-10,OK
+Tyler   (Graph-based),64,10,3188.219750,2.384257e-10,OK
+Tyler   (Graph-based),64,11,912.386125,2.384257e-10,OK
+Tyler   (Graph-based),64,12,1209.168292,2.384257e-10,OK
+Tyler   (Graph-based),64,13,812.560584,2.384257e-10,OK
+Tyler   (Graph-based),64,14,7547.586416,2.384257e-10,OK
+Tyler   (Graph-based),64,15,1618.767542,2.384257e-10,OK
+Tyler   (Graph-based),64,16,1044.204333,2.384257e-10,OK
+Tyler   (Graph-based),64,17,886.545542,2.384257e-10,OK
+Tyler   (Graph-based),64,18,3320.743125,2.384257e-10,OK
+Tyler   (Graph-based),64,19,3016.523458,2.384257e-10,OK
+Tyler   (Graph-based),64,20,3036.168875,2.384257e-10,OK
+Tyler   (Graph-based),64,21,809.889834,2.384257e-10,OK
+Tyler   (Graph-based),64,22,890.433000,2.384257e-10,OK
+Tyler   (Graph-based),64,23,972.104791,2.384257e-10,OK
+Tyler   (Graph-based),64,24,841.380791,2.384257e-10,OK
+Tyler   (Graph-based),64,25,836.252042,2.384257e-10,OK
+Tyler   (Graph-based),64,26,761.436916,2.384257e-10,OK
+Tyler   (Graph-based),64,27,759.213625,2.384257e-10,OK
+Tyler   (Graph-based),64,28,758.406167,2.384257e-10,OK
+Tyler   (Graph-based),64,29,805.569167,2.384257e-10,OK
+Tyler   (Graph-based),64,30,769.655041,2.384257e-10,OK
+Jewell  (Hash + Pivot),128,1,49.736166,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,2,25.432709,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,3,24.765833,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,4,24.711667,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,5,24.642959,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,6,25.067084,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,7,24.910042,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,8,24.761791,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,9,24.681833,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,10,24.680292,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,11,24.719292,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,12,24.665541,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,13,24.853917,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,14,24.690041,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,15,25.191250,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,16,25.192250,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,17,25.070208,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,18,25.036583,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,19,24.772666,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,20,24.807833,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,21,24.857250,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,22,24.736084,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,23,24.885542,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,24,24.700375,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,25,24.723375,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,26,24.723375,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,27,24.768125,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,28,24.808291,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,29,24.745459,2.179301e-11,OK
+Jewell  (Hash + Pivot),128,30,24.693875,2.179301e-11,OK
+Carson  (LU Decomp),128,1,13.303417,9.478208e+02,OK
+Carson  (LU Decomp),128,2,0.291417,9.478208e+02,OK
+Carson  (LU Decomp),128,3,0.268208,9.478208e+02,OK
+Carson  (LU Decomp),128,4,0.261458,9.478208e+02,OK
+Carson  (LU Decomp),128,5,0.257375,9.478208e+02,OK
+Carson  (LU Decomp),128,6,0.255333,9.478208e+02,OK
+Carson  (LU Decomp),128,7,0.253709,9.478208e+02,OK
+Carson  (LU Decomp),128,8,0.254625,9.478208e+02,OK
+Carson  (LU Decomp),128,9,0.252250,9.478208e+02,OK
+Carson  (LU Decomp),128,10,0.252708,9.478208e+02,OK
+Carson  (LU Decomp),128,11,0.254000,9.478208e+02,OK
+Carson  (LU Decomp),128,12,0.250417,9.478208e+02,OK
+Carson  (LU Decomp),128,13,0.250500,9.478208e+02,OK
+Carson  (LU Decomp),128,14,0.250375,9.478208e+02,OK
+Carson  (LU Decomp),128,15,0.252417,9.478208e+02,OK
+Carson  (LU Decomp),128,16,0.251334,9.478208e+02,OK
+Carson  (LU Decomp),128,17,0.254667,9.478208e+02,OK
+Carson  (LU Decomp),128,18,0.250625,9.478208e+02,OK
+Carson  (LU Decomp),128,19,0.251083,9.478208e+02,OK
+Carson  (LU Decomp),128,20,0.250250,9.478208e+02,OK
+Carson  (LU Decomp),128,21,0.249625,9.478208e+02,OK
+Carson  (LU Decomp),128,22,0.249917,9.478208e+02,OK
+Carson  (LU Decomp),128,23,0.251208,9.478208e+02,OK
+Carson  (LU Decomp),128,24,0.250541,9.478208e+02,OK
+Carson  (LU Decomp),128,25,0.249584,9.478208e+02,OK
+Carson  (LU Decomp),128,26,0.249459,9.478208e+02,OK
+Carson  (LU Decomp),128,27,0.248792,9.478208e+02,OK
+Carson  (LU Decomp),128,28,0.253750,9.478208e+02,OK
+Carson  (LU Decomp),128,29,0.250541,9.478208e+02,OK
+Carson  (LU Decomp),128,30,0.255333,9.478208e+02,OK
+Damian  (RREF),128,1,192.334000,1.779512e-09,OK
+Damian  (RREF),128,2,191.662208,1.779512e-09,OK
+Damian  (RREF),128,3,191.954250,1.779512e-09,OK
+Damian  (RREF),128,4,197.569583,1.779512e-09,OK
+Damian  (RREF),128,5,190.568333,1.779512e-09,OK
+Damian  (RREF),128,6,190.829167,1.779512e-09,OK
+Damian  (RREF),128,7,193.016125,1.779512e-09,OK
+Damian  (RREF),128,8,195.714792,1.779512e-09,OK
+Damian  (RREF),128,9,195.704459,1.779512e-09,OK
+Damian  (RREF),128,10,194.002250,1.779512e-09,OK
+Damian  (RREF),128,11,193.367292,1.779512e-09,OK
+Damian  (RREF),128,12,193.505750,1.779512e-09,OK
+Damian  (RREF),128,13,191.507584,1.779512e-09,OK
+Damian  (RREF),128,14,195.322333,1.779512e-09,OK
+Damian  (RREF),128,15,193.550459,1.779512e-09,OK
+Damian  (RREF),128,16,191.788209,1.779512e-09,OK
+Damian  (RREF),128,17,191.509000,1.779512e-09,OK
+Damian  (RREF),128,18,192.164042,1.779512e-09,OK
+Damian  (RREF),128,19,191.064416,1.779512e-09,OK
+Damian  (RREF),128,20,193.966375,1.779512e-09,OK
+Damian  (RREF),128,21,191.489291,1.779512e-09,OK
+Damian  (RREF),128,22,190.961750,1.779512e-09,OK
+Damian  (RREF),128,23,191.785625,1.779512e-09,OK
+Damian  (RREF),128,24,191.907583,1.779512e-09,OK
+Damian  (RREF),128,25,192.511083,1.779512e-09,OK
+Damian  (RREF),128,26,191.804584,1.779512e-09,OK
+Damian  (RREF),128,27,191.630458,1.779512e-09,OK
+Damian  (RREF),128,28,192.148542,1.779512e-09,OK
+Damian  (RREF),128,29,190.971417,1.779512e-09,OK
+Damian  (RREF),128,30,191.642625,1.779512e-09,OK
+Tyler   (Graph-based),128,1,6436.422917,8.417690e-10,OK
+Tyler   (Graph-based),128,2,6254.187000,8.417690e-10,OK
+Tyler   (Graph-based),128,3,6238.322000,8.417690e-10,OK
+Tyler   (Graph-based),128,4,6206.377750,8.417690e-10,OK
+Tyler   (Graph-based),128,5,7159.570750,8.417690e-10,OK
+Tyler   (Graph-based),128,6,6253.383708,8.417690e-10,OK
+Tyler   (Graph-based),128,7,6203.471083,8.417690e-10,OK
+Tyler   (Graph-based),128,8,6138.354791,8.417690e-10,OK
+Tyler   (Graph-based),128,9,6472.747917,8.417690e-10,OK
+Tyler   (Graph-based),128,10,6237.242959,8.417690e-10,OK
+Tyler   (Graph-based),128,11,6672.522625,8.417690e-10,OK
+Tyler   (Graph-based),128,12,6270.465375,8.417690e-10,OK
+Tyler   (Graph-based),128,13,6256.852250,8.417690e-10,OK
+Tyler   (Graph-based),128,14,6281.906708,8.417690e-10,OK
+Tyler   (Graph-based),128,15,6159.757584,8.417690e-10,OK
+Tyler   (Graph-based),128,16,6414.615875,8.417690e-10,OK
+Tyler   (Graph-based),128,17,6179.288875,8.417690e-10,OK
+Tyler   (Graph-based),128,18,6148.153625,8.417690e-10,OK
+Tyler   (Graph-based),128,19,6180.025709,8.417690e-10,OK
+Tyler   (Graph-based),128,20,6514.721417,8.417690e-10,OK
+Tyler   (Graph-based),128,21,6311.852833,8.417690e-10,OK
+Tyler   (Graph-based),128,22,6216.279166,8.417690e-10,OK
+Tyler   (Graph-based),128,23,6168.199791,8.417690e-10,OK
+Tyler   (Graph-based),128,24,6174.873208,8.417690e-10,OK
+Tyler   (Graph-based),128,25,6188.215250,8.417690e-10,OK
+Tyler   (Graph-based),128,26,6278.846625,8.417690e-10,OK
+Tyler   (Graph-based),128,27,6465.118166,8.417690e-10,OK
+Tyler   (Graph-based),128,28,6175.307292,8.417690e-10,OK
+Tyler   (Graph-based),128,29,6144.927250,8.417690e-10,OK
+Tyler   (Graph-based),128,30,6683.817500,8.417690e-10,OK
+Jewell  (Hash + Pivot),256,1,516.815875,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,2,198.618375,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,3,197.770750,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,4,197.947708,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,5,197.000959,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,6,198.296625,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,7,199.609625,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,8,197.521709,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,9,198.971417,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,10,197.885833,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,11,202.110417,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,12,199.458208,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,13,198.008125,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,14,198.595459,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,15,198.539666,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,16,200.096792,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,17,199.923708,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,18,197.889291,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,19,198.190334,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,20,199.725625,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,21,200.567167,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,22,198.581166,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,23,220.001291,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,24,198.208708,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,25,197.619875,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,26,199.584291,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,27,200.782458,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,28,259.164667,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,29,197.713416,2.637253e+03,OK
+Jewell  (Hash + Pivot),256,30,198.200917,2.637253e+03,OK
+Carson  (LU Decomp),256,1,1.443958,1.225549e+03,OK
+Carson  (LU Decomp),256,2,0.938583,1.225549e+03,OK
+Carson  (LU Decomp),256,3,0.924000,1.225549e+03,OK
+Carson  (LU Decomp),256,4,0.894250,1.225549e+03,OK
+Carson  (LU Decomp),256,5,0.881208,1.225549e+03,OK
+Carson  (LU Decomp),256,6,0.902542,1.225549e+03,OK
+Carson  (LU Decomp),256,7,0.888583,1.225549e+03,OK
+Carson  (LU Decomp),256,8,0.879958,1.225549e+03,OK
+Carson  (LU Decomp),256,9,0.912750,1.225549e+03,OK
+Carson  (LU Decomp),256,10,0.915042,1.225549e+03,OK
+Carson  (LU Decomp),256,11,0.879500,1.225549e+03,OK
+Carson  (LU Decomp),256,12,0.876792,1.225549e+03,OK
+Carson  (LU Decomp),256,13,0.881458,1.225549e+03,OK
+Carson  (LU Decomp),256,14,0.882916,1.225549e+03,OK
+Carson  (LU Decomp),256,15,0.867791,1.225549e+03,OK
+Carson  (LU Decomp),256,16,0.872625,1.225549e+03,OK
+Carson  (LU Decomp),256,17,0.878875,1.225549e+03,OK
+Carson  (LU Decomp),256,18,0.907625,1.225549e+03,OK
+Carson  (LU Decomp),256,19,0.867125,1.225549e+03,OK
+Carson  (LU Decomp),256,20,0.872084,1.225549e+03,OK
+Carson  (LU Decomp),256,21,0.870667,1.225549e+03,OK
+Carson  (LU Decomp),256,22,0.881292,1.225549e+03,OK
+Carson  (LU Decomp),256,23,0.873833,1.225549e+03,OK
+Carson  (LU Decomp),256,24,0.888375,1.225549e+03,OK
+Carson  (LU Decomp),256,25,0.871125,1.225549e+03,OK
+Carson  (LU Decomp),256,26,0.873750,1.225549e+03,OK
+Carson  (LU Decomp),256,27,0.917250,1.225549e+03,OK
+Carson  (LU Decomp),256,28,0.904917,1.225549e+03,OK
+Carson  (LU Decomp),256,29,0.895792,1.225549e+03,OK
+Carson  (LU Decomp),256,30,0.870083,1.225549e+03,OK
+Damian  (RREF),256,1,1547.102625,1.936877e-08,OK
+Damian  (RREF),256,2,1545.478250,1.936877e-08,OK
+Damian  (RREF),256,3,1548.407083,1.936877e-08,OK
+Damian  (RREF),256,4,1557.400875,1.936877e-08,OK
+Damian  (RREF),256,5,1540.996834,1.936877e-08,OK
+Damian  (RREF),256,6,1546.054834,1.936877e-08,OK
+Damian  (RREF),256,7,1542.190500,1.936877e-08,OK
+Damian  (RREF),256,8,1549.482417,1.936877e-08,OK
+Damian  (RREF),256,9,1549.043959,1.936877e-08,OK
+Damian  (RREF),256,10,1552.482125,1.936877e-08,OK
+Damian  (RREF),256,11,1542.787958,1.936877e-08,OK
+Damian  (RREF),256,12,1544.521875,1.936877e-08,OK
+Damian  (RREF),256,13,1547.241541,1.936877e-08,OK
+Damian  (RREF),256,14,1547.792583,1.936877e-08,OK
+Damian  (RREF),256,15,1544.022542,1.936877e-08,OK
+Damian  (RREF),256,16,1543.808917,1.936877e-08,OK
+Damian  (RREF),256,17,1539.519875,1.936877e-08,OK
+Damian  (RREF),256,18,1544.090875,1.936877e-08,OK
+Damian  (RREF),256,19,1541.305291,1.936877e-08,OK
+Damian  (RREF),256,20,1550.579125,1.936877e-08,OK
+Damian  (RREF),256,21,1544.744584,1.936877e-08,OK
+Damian  (RREF),256,22,1544.058292,1.936877e-08,OK
+Damian  (RREF),256,23,1542.781250,1.936877e-08,OK
+Damian  (RREF),256,24,1550.007458,1.936877e-08,OK
+Damian  (RREF),256,25,1541.595375,1.936877e-08,OK
+Damian  (RREF),256,26,1539.790458,1.936877e-08,OK
+Damian  (RREF),256,27,1536.921667,1.936877e-08,OK
+Damian  (RREF),256,28,1543.559125,1.936877e-08,OK
+Damian  (RREF),256,29,1545.699041,1.936877e-08,OK
+Damian  (RREF),256,30,1539.996959,1.936877e-08,OK
+Tyler   (Graph-based),256,1,54790.963417,2.172040e-08,OK
+Tyler   (Graph-based),256,2,51886.415375,2.172040e-08,OK
+Tyler   (Graph-based),256,3,52517.333250,2.172040e-08,OK
+Tyler   (Graph-based),256,4,51914.604083,2.172040e-08,OK
+Tyler   (Graph-based),256,5,52033.148542,2.172040e-08,OK
+Tyler   (Graph-based),256,6,51548.424333,2.172040e-08,OK
+Tyler   (Graph-based),256,7,55059.711334,2.172040e-08,OK
+Tyler   (Graph-based),256,8,51722.355208,2.172040e-08,OK
+Tyler   (Graph-based),256,9,51306.065291,2.172040e-08,OK
+Tyler   (Graph-based),256,10,51945.546541,2.172040e-08,OK
+Tyler   (Graph-based),256,11,51412.590500,2.172040e-08,OK
+Tyler   (Graph-based),256,12,53649.681500,2.172040e-08,OK
+Tyler   (Graph-based),256,13,74632.765917,2.172040e-08,OK
+Tyler   (Graph-based),256,14,63853.525000,2.172040e-08,OK
+Tyler   (Graph-based),256,15,51323.757709,2.172040e-08,OK
+Tyler   (Graph-based),256,16,52231.758792,2.172040e-08,OK
+Tyler   (Graph-based),256,17,51700.563375,2.172040e-08,OK
+Tyler   (Graph-based),256,18,52913.173792,2.172040e-08,OK
+Tyler   (Graph-based),256,19,51339.589209,2.172040e-08,OK
+Tyler   (Graph-based),256,20,50742.390167,2.172040e-08,OK
+Tyler   (Graph-based),256,21,52176.825458,2.172040e-08,OK
+Tyler   (Graph-based),256,22,51458.453583,2.172040e-08,OK
+Tyler   (Graph-based),256,23,52986.647667,2.172040e-08,OK
+Tyler   (Graph-based),256,24,56206.398334,2.172040e-08,OK
+Tyler   (Graph-based),256,25,52512.176875,2.172040e-08,OK
+Tyler   (Graph-based),256,26,52079.173417,2.172040e-08,OK
+Tyler   (Graph-based),256,27,51941.772042,2.172040e-08,OK
+Tyler   (Graph-based),256,28,50726.521250,2.172040e-08,OK
+Tyler   (Graph-based),256,29,54980.682541,2.172040e-08,OK
+Tyler   (Graph-based),256,30,51778.066250,2.172040e-08,OK
+Jewell  (Hash + Pivot),512,1,6664.877666,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,2,2072.654833,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,3,2059.922375,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,4,2087.678709,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,5,2020.712917,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,6,2036.718750,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,7,2482.709041,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,8,2095.254417,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,9,2043.330875,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,10,2058.163416,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,11,2083.834833,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,12,2034.821167,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,13,2020.945958,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,14,2023.895833,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,15,2043.878292,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,16,2030.682209,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,17,2223.076834,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,18,2025.861667,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,19,2016.609167,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,20,2012.256000,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,21,2021.237958,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,22,2019.610084,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,23,2014.020958,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,24,2023.102500,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,25,2030.079250,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,26,2037.721000,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,27,2032.077125,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,28,2027.009125,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,29,2024.041708,6.955494e-11,OK
+Jewell  (Hash + Pivot),512,30,2071.202958,6.955494e-11,OK
+Carson  (LU Decomp),512,1,31.741416,1.887627e+03,OK
+Carson  (LU Decomp),512,2,5.000417,1.887627e+03,OK
+Carson  (LU Decomp),512,3,4.852667,1.887627e+03,OK
+Carson  (LU Decomp),512,4,4.678667,1.887627e+03,OK
+Carson  (LU Decomp),512,5,4.701375,1.887627e+03,OK
+Carson  (LU Decomp),512,6,4.663375,1.887627e+03,OK
+Carson  (LU Decomp),512,7,4.624042,1.887627e+03,OK
+Carson  (LU Decomp),512,8,4.695333,1.887627e+03,OK
+Carson  (LU Decomp),512,9,4.592375,1.887627e+03,OK
+Carson  (LU Decomp),512,10,4.611125,1.887627e+03,OK
+Carson  (LU Decomp),512,11,4.748708,1.887627e+03,OK
+Carson  (LU Decomp),512,12,5.062041,1.887627e+03,OK
+Carson  (LU Decomp),512,13,4.968666,1.887627e+03,OK
+Carson  (LU Decomp),512,14,5.104333,1.887627e+03,OK
+Carson  (LU Decomp),512,15,5.098125,1.887627e+03,OK
+Carson  (LU Decomp),512,16,5.137917,1.887627e+03,OK
+Carson  (LU Decomp),512,17,4.760833,1.887627e+03,OK
+Carson  (LU Decomp),512,18,4.837833,1.887627e+03,OK
+Carson  (LU Decomp),512,19,4.661625,1.887627e+03,OK
+Carson  (LU Decomp),512,20,4.799167,1.887627e+03,OK
+Carson  (LU Decomp),512,21,4.809792,1.887627e+03,OK
+Carson  (LU Decomp),512,22,4.792625,1.887627e+03,OK
+Carson  (LU Decomp),512,23,4.745041,1.887627e+03,OK
+Carson  (LU Decomp),512,24,4.685250,1.887627e+03,OK
+Carson  (LU Decomp),512,25,4.738459,1.887627e+03,OK
+Carson  (LU Decomp),512,26,4.642667,1.887627e+03,OK
+Carson  (LU Decomp),512,27,4.567667,1.887627e+03,OK
+Carson  (LU Decomp),512,28,4.613208,1.887627e+03,OK
+Carson  (LU Decomp),512,29,4.599958,1.887627e+03,OK
+Carson  (LU Decomp),512,30,4.535333,1.887627e+03,OK
+Damian  (RREF),512,1,14367.924709,1.279164e-08,OK
+Damian  (RREF),512,2,13417.979958,1.279164e-08,OK
+Damian  (RREF),512,3,13328.019708,1.279164e-08,OK
+Damian  (RREF),512,4,13508.993792,1.279164e-08,OK
+Damian  (RREF),512,5,13496.755458,1.279164e-08,OK
+Damian  (RREF),512,6,13785.247875,1.279164e-08,OK
+Damian  (RREF),512,7,13303.964333,1.279164e-08,OK
+Damian  (RREF),512,8,13324.984625,1.279164e-08,OK
+Damian  (RREF),512,9,13322.798375,1.279164e-08,OK
+Damian  (RREF),512,10,14512.769250,1.279164e-08,OK
+Damian  (RREF),512,11,13706.502750,1.279164e-08,OK
+Damian  (RREF),512,12,14707.522250,1.279164e-08,OK
+Damian  (RREF),512,13,13429.217417,1.279164e-08,OK
+Damian  (RREF),512,14,13370.735666,1.279164e-08,OK
+Damian  (RREF),512,15,13841.266084,1.279164e-08,OK
+Damian  (RREF),512,16,13346.470916,1.279164e-08,OK
+Damian  (RREF),512,17,13343.325875,1.279164e-08,OK
+Damian  (RREF),512,18,13372.291542,1.279164e-08,OK
+Damian  (RREF),512,19,13781.792708,1.279164e-08,OK
+Damian  (RREF),512,20,15705.057709,1.279164e-08,OK
+Damian  (RREF),512,21,13363.434292,1.279164e-08,OK
+Damian  (RREF),512,22,13420.282166,1.279164e-08,OK
+Damian  (RREF),512,23,15412.854958,1.279164e-08,OK
+Damian  (RREF),512,24,13408.102167,1.279164e-08,OK
+Damian  (RREF),512,25,13443.448500,1.279164e-08,OK
+Damian  (RREF),512,26,13377.293000,1.279164e-08,OK
+Damian  (RREF),512,27,13380.919125,1.279164e-08,OK
+Damian  (RREF),512,28,14057.563333,1.279164e-08,OK
+Damian  (RREF),512,29,13331.111208,1.279164e-08,OK
+Damian  (RREF),512,30,13363.026500,1.279164e-08,OK
